@@ -3,7 +3,7 @@ using AutoFixture;
 using AutoFixture.AutoMoq;
 using AutoFixture.Kernel;
 
-namespace CSharpTools.Testing.Moq;
+namespace CSharpTools.Testing.AutoFixture;
 
 public class AutoMoqFixture : Fixture
 {
